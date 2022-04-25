@@ -666,4 +666,14 @@ margin-left:-2px ;
 .fata a{
   color: #777;
 }
+@media (max-width:1248px){
+  .text_serch{
+    width: 100%;
+  }
+}
+ @media (max-width:1248px){
+  .search_btn {
+    margin-left: 20px !important;
+  }
+ } 
 
